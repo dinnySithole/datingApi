@@ -8,4 +8,4 @@ DB_USER=root
 DB_PASS= 
 MYSQL_DB=datingDB
 
-mySql script
+mySql script is called datingDBScript
